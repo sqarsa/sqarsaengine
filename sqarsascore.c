@@ -16,7 +16,7 @@
 	#include <linux/fdtable.h>
 #endif
 
-#include "diamorphine.h"
+#include "sqarsascore.h"
 
 unsigned long cr0;
 static unsigned long *__sys_call_table;
